@@ -1,0 +1,51 @@
+*{
+	align-content: center;
+}
+a{
+	font-family: courier;
+}
+body{
+	font-family: verdana;
+	padding: 2px;
+	margin: 2px;
+	background-image: url("Images/Pictures/main_bg.png");
+	background-position: top;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-sizing: border-box;
+}
+canvas{
+	display: block;
+	margin-top:4px;
+	margin-left:auto;
+	margin-right:auto;
+}
+footer{
+	text-align: center;
+	font-color: lightgrey;
+	background-color: white;
+	padding: 15px;
+	margin-top: 5px;
+	box-shadow: 2px 2px 4px;
+}
+header{
+	text-shadow: 2px 2px 2px grey;
+	text-align: center;
+	font-size: 35px;
+	box-shadow: 2px 2px 4px black;
+	position: sticky;
+	padding: 10px;
+	background-image:url("Images/Pictures/lbluebanner.png");
+}
+img{
+	box-shadow: 2px 2px 4px black;
+}
+section{
+	font-size: 16px;
+	padding:20px;
+	margin-top:5px;
+	box-shadow: 2px 2px 4px black;
+	height:200px;
+	background-color: white;
+}
