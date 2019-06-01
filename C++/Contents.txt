@@ -1,1 +1,7 @@
 This Document Details the Contents of the C++ Folder.
+C++ Folder:
+  Cities.cpp - Find Bus service routes to cities.
+  Planet_loop.cpp - Check for planets to visit with 0 loops.
+  Random_NPC_Maker.cpp - Create 5e NPC's
+  Templates.cpp - Templates for data structures for use in code jams.
+  Three_numbers.cpp - Check if product of two numbers is a third.
